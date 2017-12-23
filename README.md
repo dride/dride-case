@@ -8,3 +8,4 @@
   <img width="420" height="390" src="https://dride.io/assets/images/zero/storeMain.png">
 </p>
 
+For commercial use please contact hello@dride.io
