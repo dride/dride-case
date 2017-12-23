@@ -1,8 +1,10 @@
 # dride-case
 
 ## Use this to 3D print your own Dride Zero.
-
-![Dride case](https://dride.io/assets/images/zero/storeMain.png)
-
 [Getting started guide](https://dride.io/documentation/getting_started)
+<br>
 [Support](https://dride.io/forum)
+<p align="center">
+  <img width="420" height="390" src="https://dride.io/assets/images/zero/storeMain.png">
+</p>
+
