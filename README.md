@@ -8,4 +8,8 @@
   <img width="420" height="390" src="https://dride.io/assets/images/zero/storeMain.png">
 </p>
 
+
+## Community projects
+[Dride case](https://www.thingiverse.com/thing:2961617) by [olidub](https://www.thingiverse.com/thing:2961617)
+
 For commercial use please contact hello@dride.io
